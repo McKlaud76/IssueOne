@@ -2,7 +2,7 @@
 
 ![PCB_IssueOne](/Images/PCB_IssOne.png)
 
-Replica of the first edition of ZX Spectrum 16/48K. The PCB has been drawn but not tested yet and no quarantee that it works.
+Replica of the first edition of ZX Spectrum 16/48K. The PCB has been drawn but not tested yet and no guarantee that it works.
 
 All works were done just for PCB creation training and no commerical value associated with them.
 
