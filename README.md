@@ -1,6 +1,6 @@
 # ZX Spectrum Issue One PCB
 
-![PCB_IssueOne](/images/PCB_IssueOne.png)
+![PCB_IssueOne](/Images/PCB_IssOne.png)
 
 Replica of the first edition of ZX Spectrum 16/48K. The PCB has been drawn but not tested yet and no quarantee that it works.
 
