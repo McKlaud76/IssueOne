@@ -1,5 +1,1 @@
-PCB production files:
-
-NOT TESTED 
-
-NOT FOR RESALE
+PCB production files are not available.
